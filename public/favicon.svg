@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1a1a2e"/>
+      <stop offset="1" stop-color="#0b0b16"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="18" y1="14" x2="46" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fbe6a2"/>
+      <stop offset="0.45" stop-color="#e8c063"/>
+      <stop offset="1" stop-color="#b8860b"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <rect x="1.25" y="1.25" width="61.5" height="61.5" rx="14.75" fill="none" stroke="url(#gold)" stroke-opacity="0.6" stroke-width="1.5"/>
+  <path
+    d="M23.6 48V16H36.4C39.3 16 41.72 16.55 43.66 17.65C45.62 18.75 47.09 20.24 48.08 22.12C49.07 24 49.56 26.1 49.56 28.42C49.56 30.86 49.02 33.02 47.94 34.9C46.86 36.76 45.28 38.2 43.2 39.22L50.4 48H43.34L37.16 40.34H29.8V48H23.6ZM29.8 35.08H36.16C38.14 35.08 39.66 34.5 40.72 33.34C41.8 32.16 42.34 30.52 42.34 28.42C42.34 26.3 41.8 24.67 40.72 23.53C39.66 22.37 38.14 21.79 36.16 21.79H29.8V35.08Z"
+    fill="url(#gold)"/>
+</svg>
